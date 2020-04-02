@@ -9,17 +9,17 @@ h3 {
 .form-submit {
   background-image: -moz-linear-gradient(
     -180deg,
-    #f7d7b8 0,
+    #d82e34 0,
     rgb(199, 132, 88) 100%
   );
   background-image: -webkit-linear-gradient(
     -180deg,
-    #f7d7b8 0,
+    #d82e34 0,
     rgb(199, 132, 88) 100%
   );
   background-image: -ms-linear-gradient(
     -180deg,
-    #f7d7b8 0,
+    #d82e34 0,
     rgb(199, 132, 88) 100%
   );
 }
@@ -28,17 +28,17 @@ h3 {
   background-image: -moz-linear-gradient(
     -180deg,
     rgb(199, 132, 88) 0,
-    #f7d7b8 100%
+    #d82e34 100%
   );
   background-image: -webkit-linear-gradient(
     -180deg,
     rgb(199, 132, 88) 0,
-    #f7d7b8 100%
+    #d82e34 100%
   );
   background-image: -ms-linear-gradient(
     -180deg,
     rgb(199, 132, 88) 0,
-    #f7d7b8 100%
+    #d82e34 100%
   );
 }
 .navbar-nav > li {

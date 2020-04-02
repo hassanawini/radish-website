@@ -450,14 +450,38 @@ header {
   width: 85%;
 }
 .content .btn-main {
-  background-image: -moz-linear-gradient(-180deg, #8282e6 0, #a2a5f4 100%);
-  background-image: -webkit-linear-gradient(-180deg, #8282e6 0, #a2a5f4 100%);
-  background-image: -ms-linear-gradient(-180deg, #8282e6 0, #a2a5f4 100%);
+  background-image: -moz-linear-gradient(
+    -180deg,
+    #d82e34 0,
+    rgb(199, 132, 88) 100%
+  );
+  background-image: -webkit-linear-gradient(
+    -180deg,
+    #d82e34 0,
+    rgb(199, 132, 88) 100%
+  );
+  background-image: -ms-linear-gradient(
+    -180deg,
+    #d82e34 0,
+    rgb(199, 132, 88) 100%
+  );
 }
 .content .btn-main:hover {
-  background-image: -moz-linear-gradient(-180deg, #a2a5f4 0, #8282e6 100%);
-  background-image: -webkit-linear-gradient(-180deg, #a2a5f4 0, #8282e6 100%);
-  background-image: -ms-linear-gradient(-180deg, #a2a5f4 0, #8282e6 100%);
+  background-image: -moz-linear-gradient(
+    -180deg,
+    #d82e34 0,
+    rgb(199, 132, 88) 100%
+  );
+  background-image: -webkit-linear-gradient(
+    -180deg,
+    #d82e34 0,
+    rgb(199, 132, 88) 100%
+  );
+  background-image: -ms-linear-gradient(
+    -180deg,
+    #d82e34 0,
+    rgb(199, 132, 88) 100%
+  );
 }
 .mock {
   padding-top: 260px;
