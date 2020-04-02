@@ -55,18 +55,20 @@ h3 {
   background-image: -moz-linear-gradient(
     -180deg,
     #f7d7b8 0,
-    rgb(199, 132, 88) 100%
+    rgb(199, 132, 88) 50%
   );
   background-image: -webkit-linear-gradient(
     -180deg,
     #f7d7b8 0,
-    rgb(199, 132, 88) 100%
+    rgb(199, 132, 88) 50%
   );
   background-image: -ms-linear-gradient(
     -180deg,
     #f7d7b8 0,
-    rgb(199, 132, 88) 100%
+    rgb(199, 132, 88) 50%
   );
+  background-image: url("../img/background/header.jpg");
+  background-repeat: round;
 }
 .about-text {
   padding-left: 0;

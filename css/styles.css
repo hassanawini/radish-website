@@ -409,6 +409,8 @@ header {
   z-index: 2;
 }
 .header-home {
+  background-image: url("../img/background/header.jpg");
+  background-repeat: round;
   background-image: -moz-linear-gradient(
     -180deg,
     #f7d7b8 0,
@@ -461,7 +463,7 @@ header {
   padding-top: 260px;
 }
 .mock img {
-  width: 100%;
+  margin-right: auto;
 }
 .mock-about img {
   width: 100%;
