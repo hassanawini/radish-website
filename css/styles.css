@@ -1544,13 +1544,39 @@ input[type="checkbox"] {
   .navbar > .container .navbar-brand {
     margin-left: 0;
   }
+  .navbar-brand {
+    width: 300px;
+  }
 }
 @media (max-width: 767px) {
+  .header-home {
+    background-image: -moz-linear-gradient(
+      -180deg,
+      #f7d7b8 0,
+      rgb(199, 132, 88) 100%
+    ) !important;
+    background-image: -webkit-linear-gradient(
+      -180deg,
+      #f7d7b8 0,
+      rgb(199, 132, 88) 100%
+    ) !important;
+    background-image: -ms-linear-gradient(
+      -180deg,
+      #f7d7b8 0,
+      rgb(199, 132, 88) 100%
+    ) !important;
+  }
   .title p {
     width: 82%;
   }
+  .top-nav {
+    padding: 0;
+  }
   .navbar > .container .navbar-brand {
     margin-left: 15px;
+  }
+  .navbar-brand {
+    width: 150px;
   }
   .menu-icon {
     z-index: 99;
